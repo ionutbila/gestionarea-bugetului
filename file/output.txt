@@ -1,0 +1,8 @@
+salariu |Iulie|4500|
+cheltuieli |iulie|150|
+salariu |Iunie|4452|
+cheltuieli |Iunie|210|
+cheltuieli |Iunie|8593|
+salariu |Iunie|1|
+salariu |iulie|44444|
+cheltuieli |iulie|45|
